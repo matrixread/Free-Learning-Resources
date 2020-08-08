@@ -1,4 +1,4 @@
-name: Latest Programming posts workflow
+name: Latest Learning Resources Workflow
 on:
   schedule:
     # Runs every hour
