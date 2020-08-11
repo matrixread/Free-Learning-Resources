@@ -2,7 +2,7 @@ name: Latest Learning Resources Workflow
 on:
   schedule:
     # Runs every hour
-    - cron: '0 0 * * SUN'  
+    - cron: '1 0 * * SUN'  
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
