@@ -1,4 +1,6 @@
-# Free Learning Resources
+<h1 align="center">
+	Free✅ Learning📚 Resources💻
+</h1>
 
 <!-- BLOG-POST-LIST:START -->
 - [4 sites to learn Python for free](https://matrixread.com/learn-python-3-free/)
