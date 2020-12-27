@@ -2,6 +2,7 @@
 ***
 
 <!-- BLOG-POST-LIST:START -->
+- [BACKEND 101](https://matrixread.com/backend-101/)
 - [#3: Interview Resources](https://matrixread.com/3-interview-resources/)
 - [FRONT-END WEB DEV 101](https://matrixread.com/front-end-web-dev-101/)
 - [4 sites to learn Python for free](https://matrixread.com/learn-python-3-free/)
